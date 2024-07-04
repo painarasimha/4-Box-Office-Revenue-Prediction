@@ -5,7 +5,7 @@
 ## Features
 
 ## Dataset
-The dataset used in the project is: https://www.kaggle.com/datasets/yogeshkumarsingla/tmdb-box-office-prediction-cleaned-data
+The dataset used in the project is: https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset/data
 
 ## Models
 
